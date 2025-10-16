@@ -1,0 +1,4 @@
+*.shader linguist-detectable=false
+*.hsls linguist-detectable=false
+*.cginc linguist-detectable=false
+*.compute linguist-detectable=false
